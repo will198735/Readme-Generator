@@ -5,7 +5,7 @@
   
   
   ## Description 
-  this is a program that allow user to generate a professional readme using the command line
+  This is a program that allow user to generate a professional README.md using the comand line.
   
   
   
@@ -19,12 +19,12 @@
   
   
   ## Intalletion 
-  npm i and then node.js
+  https://drive.google.com/file/d/1Hj0Tg_wtjEJrrUWmzNOl0NZcteHSzF8R/view  git@github.com:will198735/Readme-Generator.git
   
   
   
   ## Usage
-  user open terminal type node index a questions will prompt user answer and anew questionwill prompt
+  open terminal type node index a question will prompt user answer and press enter a new question will shows up.
   
   
   
