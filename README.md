@@ -19,7 +19,8 @@
   
   
   ## Intalletion 
-  https://drive.google.com/file/d/1Hj0Tg_wtjEJrrUWmzNOl0NZcteHSzF8R/view  git@github.com:will198735/Readme-Generator.git
+  https://drive.google.com/file/d/1Hj0Tg_wtjEJrrUWmzNOl0NZcteHSzF8R/view  
+  git@github.com:will198735/Readme-Generator.git
   
   
   
