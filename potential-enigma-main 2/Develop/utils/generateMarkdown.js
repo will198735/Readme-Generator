@@ -33,7 +33,8 @@ function generateMarkdown(data) {
   
   
   
-  ## Description ${data.description}
+  ## Description 
+  ${data.description}
   
   
   
@@ -46,20 +47,24 @@ function generateMarkdown(data) {
   
   
   
-  ## Intalletion ${data.installation}
+  ## Intalletion 
+  ${data.installation}
   
   
   
-  ## Usage${data.usege}
+  ## Usage
+  ${data.usage}
   
   
   
-  ## Credits ${data.credits}
+  ## Credits
+   ${data.credits}
   
   
   
   
-  ## License ${data.license}
+  ## License 
+  ${data.license}
 
 `;
 }
